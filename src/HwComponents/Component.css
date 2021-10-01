@@ -1,0 +1,45 @@
+body{
+    width: 1000px;
+    height: 680px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.mainBlog{
+    width: 1000px;
+    background-color: rgb(167, 141, 192);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+.allDate {
+    background-color: rgb(119, 90, 79);
+    color: aliceblue;
+    border-radius: 10px;
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.mainBlog .title {
+    color: rgb(238, 234, 231);
+    background-color: rgb(119, 90, 79);
+    border-radius: 10px;
+}
+
+.cash{
+    font-size: 30px;
+    background-color: rgb(119, 90, 79);
+    color: white;
+    border-radius: 10px;
+    width: 150px;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+}
